@@ -1,0 +1,11 @@
+{
+  "problem_id": "Q1",
+  "language": "python",
+  "marks": 10,
+  "test_cases": [
+    {"input": "5\n", "output": "25\n"},
+    {"input": "10\n", "output": "100\n"},
+    {"input": "0\n", "output": "0\n"}
+  ],
+  "timeout": 2
+}
