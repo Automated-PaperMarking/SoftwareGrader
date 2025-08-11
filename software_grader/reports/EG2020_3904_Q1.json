@@ -3,8 +3,8 @@
     "problem_id": "Q1",
     "score": 3,
     "feedback": [
-        "\u274c Test 1: Failed \u2013 Expected `25`, Got `0`",
-        "\u274c Test 2: Failed \u2013 Expected `100`, Got `0`",
-        "\u2705 Test 3: Passed"
+        "❌ Test 1: Failed — Expected `25`, Got `0`",
+        "❌ Test 2: Failed — Expected `100`, Got `0`",
+        "✅ Test 3: Passed"
     ]
 }
